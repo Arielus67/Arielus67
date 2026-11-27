@@ -1,70 +1,164 @@
-<!-- Banner neón -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:7B2FF7,100:FF2E97&height=220&section=header&text=HOLA,%20SOY%20ARIEL&fontSize=55&fontColor=ffffff&animation=twinkling&stroke=00F0FF&strokeWidth=1&desc=%3E%20Full%20Stack%20Developer_&descAlignY=72&descSize=20" alt="banner" />
-</p>
+<!--
+  GITHUB PROFILE README
+  Usuario: Arielus67
+  Estilo: Dark / Purple Neon
+-->
 
-<p align="center">
-  <a href="https://github.com/Arielus67">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E+Inicializando+sistema...;%3E+Backend+con+PHP+%2B+Laravel+%E2%9A%A1;%3E+Frontend+con+JavaScript+%2B+CSS+%F0%9F%8E%A8;%3E+Bases+de+datos+MySQL+%F0%9F%97%84%EF%B8%8F;%3E+Laravel+lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arielus67&label=VISITAS&color=ff2e97&style=for-the-badge" alt="visitas" />
-  <img src="https://img.shields.io/github/followers/Arielus67?label=SEGUIDORES&style=for-the-badge&color=00f0ff&labelColor=0d0221" alt="seguidores" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:8B5CF6,100:A855F7&height=200&section=header&text=Arielus67&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="Arielus67 - Full Stack Developer"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+# 👾 ¡Hola! Soy Arielus67
 
-## `> whoami`
+### 💜 Full Stack Developer | Code • Create • Improve
 
-```yaml
-nombre:    Ariel
-rol:       Desarrollador Web Full Stack
-backend:   [PHP, Laravel]
-frontend:  [JavaScript, HTML, CSS]
-database:  [MySQL]
-estado:    "Siempre aprendiendo 🚀"
+*Transformando ideas en proyectos, una línea de código a la vez.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Arielus67-181717?style=for-the-badge&logo=github)](https://github.com/Arielus67)
+[![Profile Views](https://komarev.com/ghpvc/?username=Arielus67&color=8B5CF6&style=for-the-badge&label=VISITAS)](https://github.com/Arielus67)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+```javascript
+const ariel = {
+    nombre: "Ariel",
+    username: "Arielus67",
+    ubicacion: "Costa Rica 🇨🇷",
+    rol: "Full Stack Developer",
+    intereses: [
+        "Desarrollo web",
+        "Desarrollo de videojuegos",
+        "Bases de datos",
+        "Tecnología y programación"
+    ],
+    objetivo: "Crear proyectos increíbles y seguir aprendiendo"
+};
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- 🚀 Actualmente desarrollando proyectos web con **PHP y Laravel**.
+- 💻 Aprendiendo y mejorando mis habilidades de desarrollo Full Stack.
+- 🗄️ Trabajando con bases de datos relacionales.
+- 🎮 Apasionado por los videojuegos y la tecnología.
+- 🌱 Siempre explorando nuevas herramientas y tecnologías.
 
-## `> stack --list`
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,git,github,vscode&theme=dark&perline=9" alt="tecnologías" />
-  </a>
-</p>
+## ⚡ Tecnologías y herramientas
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### Lenguajes de programación
 
-## `> stats --show`
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,js,html,css&theme=dark" />
+</div>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arielus67&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&locale=es&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arielus67&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&locale=es" alt="lenguajes" />
-</p>
+### Frameworks y librerías
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arielus67&theme=radical&hide_border=true&background=0D0221&locale=es" alt="racha" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,jquery&theme=dark" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arielus67&bg_color=0d0221&color=00f0ff&line=ff2e97&point=ffffff&area=true&area_color=7b2ff7&hide_border=true" alt="actividad" width="100%" />
-</p>
+### Bases de datos y herramientas
 
-## `> snake --eat-commits`
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux&theme=dark" />
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arielus67/Arielus67/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arielus67/Arielus67/output/github-snake.svg" />
-    <img alt="serpiente de commits" src="https://raw.githubusercontent.com/Arielus67/Arielus67/output/github-snake-dark.svg" />
-  </picture>
-</p>
+---
 
-<!-- Pie neón -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7B2FF7,100:00F0FF&height=120&section=footer" alt="footer" />
-</p>
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arielus67&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arielus67&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Arielus67&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arielus67&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+
+</div>
+
+---
+
+## 📈 Actividad de contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arielus67&theme=tokyo-night&hide_border=true&area=true&color=A855F7&line=8B5CF6&point=FFFFFF"/>
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
+
+<div align="center">
+
+<a href="https://github.com/Arielus67/proyecto-bases-de-datos">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arielus67&repo=proyecto-bases-de-datos&theme=midnight-purple&hide_border=true" />
+</a>
+
+<a href="https://github.com/Arielus67/proyectoFinal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arielus67&repo=proyectoFinal&theme=midnight-purple&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Actualmente
+
+- 🔨 Construyendo aplicaciones web con Laravel y PHP.
+- 🗃️ Mejorando mis conocimientos de MySQL y diseño de bases de datos.
+- 🐳 Explorando Docker y herramientas de desarrollo.
+- 🎮 Experimentando con servidores y modificaciones de videojuegos.
+- 📚 Aprendiendo constantemente nuevas tecnologías.
+
+---
+
+## 🌌 Mi filosofía
+
+<div align="center">
+
+### "El código de hoy es la tecnología del mañana."
+
+**Code. Build. Improve. Repeat.** 💜
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+<a href="https://github.com/Arielus67">
+<img src="https://img.shields.io/badge/GitHub-Arielus67-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Añade aquí tu LinkedIn o correo profesional cuando quieras -->
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer"/>
+
+**¡Gracias por visitar mi perfil! 💜**
+
+</div>
