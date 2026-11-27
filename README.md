@@ -16,10 +16,10 @@ y la creación de soluciones digitales, desde **Costa Rica**.
 
 <br/>
 
-<a href="https://github.com/Arielus67"><img src="https://img.shields.io/badge/GitHub-Arielus67-8B5CF6?style=for-the-badge&logo=github&logoColor=F5F3FF&labelColor=10101C" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Ubicación-Costa%20Rica-8B5CF6?style=for-the-badge&labelColor=10101C" alt="Costa Rica"/>
-<a href="https://github.com/Arielus67?tab=followers"><img src="https://img.shields.io/github/followers/Arielus67?label=Seguidores&style=for-the-badge&color=8B5CF6&labelColor=10101C" alt="Seguidores"/></a>
-<img src="https://komarev.com/ghpvc/?username=Arielus67&label=Visitas&color=8B5CF6&style=for-the-badge" alt="Visitas al perfil"/>
+<a href="https://github.com/Arielus67"><img src="assets/badges/github.svg" alt="GitHub: Arielus67"/></a>
+<img src="assets/badges/location.svg" alt="Ubicación: Costa Rica"/>
+<a href="https://github.com/Arielus67?tab=followers"><img src="https://img.shields.io/github/followers/Arielus67?label=Seguidores&style=for-the-badge&color=8B5CF6&labelColor=10101C" height="30" alt="Seguidores"/></a>
+<img src="https://komarev.com/ghpvc/?username=Arielus67&label=Visitas&color=8B5CF6&labelColor=10101C&style=for-the-badge" height="30" alt="Visitas al perfil"/>
 
 </div>
 
@@ -56,8 +56,7 @@ const ariel = {
 <img src="https://skillicons.dev/icons?i=laravel,bootstrap&theme=dark" alt="Laravel, Bootstrap"/>
 
 <sub><b>DATABASES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB"/>
-&nbsp;<img src="https://img.shields.io/badge/SQL%20Server-10101C?style=for-the-badge&logo=microsoftsqlserver&logoColor=A855F7" height="48" alt="SQL Server"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB"/>&nbsp;<img src="assets/badges/sqlserver.svg" width="48" alt="SQL Server"/>
 
 <sub><b>TOOLS &amp; PLATFORMS</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&theme=dark" alt="Docker, Git, GitHub, VS Code, Linux"/>
@@ -97,7 +96,7 @@ const ariel = {
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Arielus67&theme=discord&no-frame=true&no-bg=true&column=-1&margin-w=8" alt="Trofeos de GitHub"/>
+<img src="https://github-trophies.vercel.app/?username=Arielus67&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trofeos de GitHub"/>
 
 </div>
 
@@ -142,7 +141,7 @@ const ariel = {
 
 <div align="center">
 
-<a href="https://github.com/Arielus67"><img src="https://img.shields.io/badge/GitHub-Arielus67-8B5CF6?style=for-the-badge&logo=github&logoColor=F5F3FF&labelColor=10101C" alt="GitHub"/></a>
+<a href="https://github.com/Arielus67"><img src="assets/badges/github.svg" alt="GitHub: Arielus67"/></a>
 <!-- LinkedIn: reemplaza TU_USUARIO y quita el comentario
 <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=F5F3FF&labelColor=10101C" alt="LinkedIn"/></a>
 -->
